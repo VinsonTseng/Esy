@@ -1,10 +1,9 @@
 <?php
 
-namespace Esy;
+namespace VinsonTseng\Esy;
 
-class Routes
-{
+class Routes {
     function run(){
-        echo 1;
+        echo 'Routes';
     }
 }
